@@ -5,6 +5,8 @@ Bank Marketing Analysis using Power BI and Machine Learning, A data-driven analy
 
 This repository contains a comprehensive analysis of a bank's telemarketing campaign, using Power BI for data visualization and Machine Learning (XGBoost) for predictive modeling.
 
+# Dataset Source link - https://archive.ics.uci.edu/dataset/222/bank+marketing
+
 ## 📌 Project Overview
 A bank conducted a telemarketing campaign to promote term deposits. This project aims to:
 - Analyze customer profiles and subscription trends
