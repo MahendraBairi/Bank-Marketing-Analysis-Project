@@ -27,7 +27,6 @@ A bank conducted a telemarketing campaign to promote term deposits. This project
 ✅ Model Performance Analysis (Actual vs. Predicted Subscriptions, KPI Accuracy)
 
 ## 🎯 Future Improvements
-✔ Convert LaTeX report into a Jupyter Notebook with Markdown & Python 
 ✔ Deploy the predictive model as a Flask API for real-time predictions 
 ✔ Improve Power BI visualizations and interactivity
 
